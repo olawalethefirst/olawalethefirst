@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olawalethefirst
+- 👋 Hi, I’m Olawale Bashiru
 - 👀 I’m interested in constantly improving my programming skills...
 - 🌱 I’m currently very familiar with Java Script, React Native Framework, firebase BAAS and other basic web development kits
 - 💞️ I’m looking to collaborate on react native related projects
