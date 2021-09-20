@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Olawale Bashiru.
-- 👀 I’m interested in constantly improving my programming skills.
-- 🌱 I’m currently very familiar with Java Script, React Native Framework, firebase BAAS and other web development related kits.
-- 💞️ I’m looking to collaborate on react native projects.
-- 📫 You can reach me me on @Olawalethefirst on twitter.
+Welcome, I’m Olawale Bashiru.
+I currently work mainly with Java Script and the React Native Framework.
+I’m looking for challenging opportunities to develop cross-platform mobile applications.
+You can reach me @Olawalethefirst on twitter.
 
 <!---
 olawalethefirst/olawalethefirst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
