@@ -1,4 +1,4 @@
-Welcome, I’m Olawale Bashiru.
+Welcome,
 I currently work mainly with Java Script and the React Native Framework.
 I’m looking for challenging opportunities to develop cross-platform mobile applications.
 You can reach me @Olawalethefirst on twitter.
