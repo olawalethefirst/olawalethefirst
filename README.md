@@ -1,9 +1,4 @@
-Welcome,
-I currently work mainly with Java Script and the React Native Framework.
-I’m looking for challenging opportunities to develop cross-platform mobile applications.
-You can reach me @Olawalethefirst on twitter.
-
-<!---
-olawalethefirst/olawalethefirst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello,
+I'm constantly looking out for challenging opportunities that will help transcend my technical and overall skill level.
+I currently use JavaScript, Firebase, React & React Native framework to develop cross-platform mobile applications.
+To connect with me, you can catch me @Olawalethefirst on twitter.
