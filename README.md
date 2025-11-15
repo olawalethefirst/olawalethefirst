@@ -1,4 +1,7 @@
-# Hello Guest, I'm Olawale 👋  
+# Hello World! 
+
+## I'm Olawale 👋  
+
 ### Full-Stack Developer — React • React Native • Node.js • TypeScript
 
 I build fast, scalable web & mobile applications with a strong focus on performance, clean architecture, and developer experience.  
